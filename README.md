@@ -1,1 +1,1 @@
-These are successfully solved exercises on the `codelearn.io` website
+These are successfully solved exercises on the [codelearn.io](https://codelearn.io/training) website.
